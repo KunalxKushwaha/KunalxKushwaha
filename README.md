@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Kunal Kushwaha</h1>
-<h3 align="center">A Passionate Frontend and UI-UX Developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalxkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="kunalxkushwaha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha" alt="kunalxkushwaha" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/kunalxkushwaha" target="blank"><img src="https://img.shields.io/twitter/follow/kunalxkushwaha?logo=twitter&style=for-the-badge" alt="kunalxkushwaha" /></a> </p>
+
 - 🌱 I’m currently learning **MERN Stack from Scratch and Android Development.**
+
+- 📫 How to reach me **kushwahakunal733@gmail.coom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io//kunalxkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://github.com/kunalxkushwaha" height="30" width="40" /></a>
+<a href="https://codepen.io/https://github.com/kunalxkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://github.com/kunalxkushwaha" height="30" width="40" /></a>
 <a href="https://twitter.com/kunalxkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalxkushwaha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kunal-kushwaha-a25810294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-kushwaha-a25810294" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/kunalxkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kunalxkushwaha" height="30" width="40" /></a>
-<a href="https://instagram.com/psychic.kunal.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/psychic.kunal.45" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kunalxkushwaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kunalxkushwaha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/kunalxkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kunalxkushwaha" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/kunalxkushwaha0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kunalxkushwaha0001/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/kunalxkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kunalxkushwaha/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-kushwaha-a25810294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-kushwaha-a25810294" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/kunalxkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kunalxkushwaha" height="30" width="40" /></a>
+<a href="https://instagram.com/https://github.com/psychic.kunal.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/psychic.kunal.45" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/kunalxkushwaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kunalxkushwaha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kunalxkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kunalxkushwaha" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/kunalxkushwaha0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kunalxkushwaha0001/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kunalxkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kunalxkushwaha/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
