@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋![HoloSpiceAndWolfGIF](https://github.com/user-attachments/assets/cbc82bc4-234c-4ca8-b43a-98b6f38edbfe)
-, I'm Kunal Kushwaha</h1> 
+<h1 align="center">Hi 👋! I'm Kunal Kushwaha</h1> 
 <h3 align="center">A passionate Frontend UI-UX Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalxkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="kunalxkushwaha" /> </p>
