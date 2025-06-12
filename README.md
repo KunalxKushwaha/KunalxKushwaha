@@ -50,7 +50,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" height="40"/>
   </a>
   <a href="https://leetcode.com/kunalxkushwaha0001" target="_blank">
-    <img src="https://icons8.com/icons/set/leetcode" height="40" width="40" alt="Leetcode" style="margin: 0 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" style="margin: 0 10px;" />
   </a>
   <a href="https://www.hackerrank.com/kunalxkushwaha" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" width="40" alt="HackerRank" style="margin: 0 10px;" />
