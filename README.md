@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋! I'm Kunal Kushwaha</h1> 
 <h3 align="center">A Passionate MERN-Stack Developer from India. 🧑‍💻</h3>
 
+## 🏆 GitHub Trophies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalxkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="kunalxkushwaha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha" alt="kunalxkushwaha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha" alt="kunalxkushwaha" /></a> </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onestar&column=7" alt="Trophies" />
-</p>
+
+
 
 <p align="left"> <a href="https://twitter.com/kunalxkushwaha" target="blank"><img src="https://img.shields.io/twitter/follow/kunalxkushwaha?logo=twitter&style=for-the-badge" alt="kunalxkushwaha" /></a> </p>
 
