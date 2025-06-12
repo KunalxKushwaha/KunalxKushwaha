@@ -99,12 +99,6 @@
 
 ---
 
-## 🔗 Featured Blog Posts
-
-> You can embed your dev.to or hashnode articles using:  
-> `https://github-readme-medium.vercel.app/?username=username`
-
----
 
 ## ⚡ Technologies I'm Exploring in 2025
 
