@@ -23,9 +23,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **MERN stack projects and Android apps**
+- 🔭 I’m currently working on **MERN stack projects and Android Development**
 - 🌱 Learning **Cloud Deployment | DSA | Mobile-Backend Integration**
-- 💬 Ask me about **React, Node.js, JavaScript, Java, and APIs**
+- 💬 Ask me about **React, Python, JavaScript, Java, and APIs**
 - 📫 Reach me at **kushwahakunal733@gmail.com**
 - ⚡ Fun fact: I love watching Sci-Fi movies and building UI clones 🛸
 
@@ -102,9 +102,8 @@
 
 ## ⚡ Technologies I'm Exploring in 2025
 
-- Docker 🐳 & Kubernetes ☸️
 - AWS & Cloud Functions ☁️
-- Next.js and SSR 🧪
+- Next.js and TypeScipt🧪
 - ML with Python & TensorFlow 🧠
 
 ---
