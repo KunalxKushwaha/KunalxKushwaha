@@ -29,15 +29,6 @@
 
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalxkushwaha&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalxkushwaha&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalxkushwaha&theme=radical" alt="GitHub Streak"/>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalxkushwaha&show_icons=true&locale=en&layout=compact" alt="kunalxkushwaha" /></p>
 
@@ -45,8 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalxkushwaha&" alt="kunalxkushwaha" /></p>
 
-
----
 
 ### ✍️ Fun Facts About Me
 - 🚀 I love building full-stack apps from scratch.
