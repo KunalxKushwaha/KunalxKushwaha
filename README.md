@@ -94,8 +94,8 @@
 
 ## 🛰️ Latest Projects
 
-> Add featured pinned repositories for better visibility  
-> Use this: `https://github.com/anuraghazra/github-readme-stats#repo-card`  
+<h5>Volume Controller</h5>
+> Use this: `https://github.com/KunalxKushwaha/Volume-Controller`  
 
 ---
 
