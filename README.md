@@ -15,6 +15,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onedark&margin-w=15&no-bg=true" />
+</p>
+
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **MERN stack projects and Android apps**
@@ -75,12 +81,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onedark&margin-w=15&no-bg=true" />
-</p>
 
 ---
 
