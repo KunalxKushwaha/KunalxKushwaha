@@ -34,5 +34,21 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalxkushwaha&" alt="kunalxkushwaha" /></p>
 
 
+---
+
+### ✍️ Fun Facts About Me
+- 🚀 I love building full-stack apps from scratch.
+- 🧠 I enjoy problem-solving and contributing to open source.
+- 🎮 Gaming and space science fascinate me.
+- 🧩 Currently exploring DevOps and Web 3.0.
+
+---
+
+> _“Consistency is what transforms average into excellence.”_
+
+---
+
+
+
 
 
