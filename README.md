@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalxkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="kunalxkushwaha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha" alt="kunalxkushwaha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kunalxkushwaha" target="blank"><img src="https://img.shields.io/twitter/follow/kunalxkushwaha?logo=twitter&style=for-the-badge" alt="kunalxkushwaha" /></a> </p>
-
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onestar&column=7" alt="Trophies" />
+</p>
 - 🌱 I’m currently learning **MERN Stack from Scratch and Android Development.**
 
 - 📫 How to reach me **kushwahakunal733@gmail.coom**
