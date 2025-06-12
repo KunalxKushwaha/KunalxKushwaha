@@ -95,7 +95,7 @@
 ## 🛰️ Latest Projects
 
 <h5>Volume Controller</h5>
-> Use this: `https://github.com/KunalxKushwaha/Volume-Controller`  
+> Use this: https://github.com/KunalxKushwaha/Volume-Controller
 
 ---
 
