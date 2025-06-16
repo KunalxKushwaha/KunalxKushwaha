@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate MERN Stack Developer | Android Enthusiast | Tech Explorer from India.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61F7E2&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things...;Passionate+Full+Stack+Developer;Code+Eat+Sleep+Repeat!">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onedark&margin-w=15&no-bg=true&title=MultiLanguage" />
 </p>
 
 <p align="center">
