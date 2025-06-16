@@ -2,10 +2,6 @@
 <h3 align="center">🚀 Passionate MERN Stack Developer | Android Enthusiast | Tech Explorer from India.</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onedark&margin-w=15&no-bg=true" />
-</p>
-
-<p align="center">
   <a href="https://github.com/kunalxkushwaha">
     <img src="https://komarev.com/ghpvc/?username=kunalxkushwaha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="kunalxkushwaha" />
   </a>
