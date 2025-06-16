@@ -14,7 +14,6 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalxkushwaha&layout=compact&theme=onedark&langs_count=8" />
   <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onedark&margin-w=15&no-bg=true" />
 </p>
 
