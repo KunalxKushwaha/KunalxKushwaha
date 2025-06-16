@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate MERN Stack Developer | Android Enthusiast | Tech Explorer from India.</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onedark&margin-w=15&no-bg=true&title=MultiLanguage" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onedark&margin-w=15&no-bg=true" />
 </p>
 
 <p align="center">
