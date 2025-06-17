@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Kushwaha</h1>
 <h3 align="center">🚀 Passionate MERN Stack Developer | Android Enthusiast | Tech Explorer from India.</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61F7E2&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things...;Passionate+Full+Stack+Developer;Code>+Eat>+Sleep>+Repeat!!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61F7E2&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things...;Passionate+Full+Stack+Developer;Code+Eat+Sleep+Repeat!!">
 </p>
 
 <p align="center">
