@@ -30,7 +30,7 @@
 - 🌱 Learning **Cloud Deployment | DSA | Mobile-Backend Integration**
 - 💬 Ask me about **React, Python, JavaScript, Java, TypeScript and APIs**
 - 📫 Reach me at **kushwahakunal733@gmail.com**
-- ⚡ Fun fact: I love watching Sci-Fi Movies and Building UI Clones 🛸
+- ⚡ Fun fact: I love watching Sci-Fi Movies and Building UI Clones and  🛸
 
 ---
 
