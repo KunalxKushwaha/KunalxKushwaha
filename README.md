@@ -107,7 +107,7 @@
 
 - AWS & Cloud Functions.☁️
 - Next.js and TypeScipt.🧪
-- ML with Python & TensorFlow 🧠
+- ML with Python & TensorFlow.🧠
 
 ---
 
