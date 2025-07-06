@@ -106,7 +106,7 @@
 ## ⚡ Technologies I'm Exploring in 2025
 
 - AWS & Cloud Functions. ☁️
-- Next.js and TypeScipt🧪
+- Next.js and TypeScipt.🧪
 - ML with Python & TensorFlow 🧠
 
 ---
