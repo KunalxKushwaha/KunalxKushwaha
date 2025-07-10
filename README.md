@@ -49,9 +49,9 @@
   <a href="https://codepen.io/kunalxkushwaha" target="_blank">
     <img src="https://skillicons.dev/icons?i=codepen" height="40"/>
   </a>
-<!--   <a href="https://www.codechef.com/users/kunalxkushwaha" target="_blank">
+  <a href="https://www.codechef.com/users/kunalxkushwaha" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" height="40"/>
-  </a> -->
+  </a>
   <a href="https://leetcode.com/kunalxkushwaha0001" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" style="margin: 0 10px;" />
   </a>
