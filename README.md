@@ -98,6 +98,7 @@
 ## 🛰️ Latest Projects
 
 <h3>Volume Controller</h3>
+Do Check it out using the link given below
 > Use this: https://github.com/KunalxKushwaha/Volume-Controller
 
 ---
