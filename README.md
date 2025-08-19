@@ -100,9 +100,9 @@
 
 ## 🛰️ Latest Projects
 
-<h3>Volume Controller</h3>
+<h3>AI SAAS Web Application</h3>
 Do Check it out Using the link given below:<br>
-> Use this: https://github.com/KunalxKushwaha/Volume-Controller
+> Use this: https://github.com/KunalxKushwaha/AI-Tools
 
 ---
 
@@ -110,7 +110,7 @@ Do Check it out Using the link given below:<br>
 ## ⚡ Technologies I'm Exploring in 2025
 
 - AWS & Cloud Functions.☁️
-- Next.js and TypeScipt.🧪
+- Next.js and DevOps.🧪
 - ML with Python & TensorFlow.🧠
 
 ---
