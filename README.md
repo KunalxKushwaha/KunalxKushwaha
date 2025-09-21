@@ -4,8 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61F7E2&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things...;Passionate+Full+Stack+Developer;Code+Eat+Sleep+Repeat!!">
 </p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=28&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=🚀+Always+Learning+New+Things...;💻+Passionate+Full+Stack+Developer;☕+Code+Eat+Sleep+Repeat!!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=🚀+Always+Learning+New+Things...;💻+Passionate+Full+Stack+Developer;☕+Code+Eat+Sleep+Repeat!!">
 </p>
+
 
 
 <p align="center">
