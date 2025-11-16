@@ -1,4 +1,9 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Kunal Kushwaha</h1>
+<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Kunal Kushwaha</h1> -->
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  Hi, I'm <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/> Daniel</a>!
+  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel" alt="GitHub profile views counter">
+</h1>
 <h2 align="center">🚀 Passionate MERN Stack Developer | Android Enthusiast | Tech Explorer from India.</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61F7E2&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things...;Passionate+Full+Stack+Developer;Code+Eat+Sleep+Repeat!!">
