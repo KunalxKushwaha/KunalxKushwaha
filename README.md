@@ -114,9 +114,9 @@
 
 ## 🛰️ Latest Projects
 
-<h3>AI SAAS Web Application</h3>
+<h3><b>Resumate</b>AI Powered Resume Builder</h3>
 Do Check it out Using the link given below:<br>
-> Use this: https://github.com/KunalxKushwaha/AI-Tools
+> Use this: https://github.com/KunalxKushwaha/Resume-Builder.git
 
 ---
 
