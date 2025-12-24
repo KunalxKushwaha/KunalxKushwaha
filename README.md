@@ -53,7 +53,7 @@
 
 ---
 
-## 🌐 Connect With Me 
+## 🌐 Connect With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/kunal-kushwaha-a25810294" target="_blank">
@@ -79,7 +79,7 @@
   </a>
   <a href="https://www.kaggle.com/kunalxkushwaha" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="40" width="40" alt="Kaggle" style="margin: 0 10px;" />
-  </a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+  </a>
 </p>
 
 ---
