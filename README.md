@@ -118,7 +118,7 @@ Do Check it out Using the link given below:<br>
 ---
 
 
-## ⚡ Technologies I'm Exploring in 2025
+## ⚡ Technologies I'm Exploring in 2026
 
 - AWS & Cloud Functions.☁️
 - Next.js and DevOps.🧪
