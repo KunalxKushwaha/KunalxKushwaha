@@ -115,6 +115,10 @@
 Do Check it out Using the link given below:<br>
 > Use this: https://github.com/KunalxKushwaha/Resume-Builder.git
 
+<h3><b>Resumind</b> - An AI Powered Application Tracking System</h3>
+Do Check it out Using the link given below:<br>
+> Use this: https://puter.com/app/resumind-ai-resume-analyzer-001
+
 ---
 
 
