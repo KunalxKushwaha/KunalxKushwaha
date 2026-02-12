@@ -125,7 +125,7 @@ Do Check it out Using the link given below:<br>
 ## ⚡ Technologies I'm Exploring in 2026
 
 - AWS & Cloud Functions.☁️
-- Dockers and DevOps.🧪
+- DevOps and WebSockets.🧪
 - ML with Python & TensorFlow.🧠
 
 ---
