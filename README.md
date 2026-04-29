@@ -119,6 +119,10 @@ Do Check it out Using the link given below:<br>
 Do Check it out Using the link given below:<br>
 > Use this: https://puter.com/app/resumind-ai-resume-analyzer-001
 
+<h3><b>Loan Defaulter</b> - Predicts whether a person is a loan defaulter or not</h3>
+Do Check it out Using the link given below:<br>
+> https://github.com/KunalxKushwaha/Loan-Defaulter.git
+
 ---
 
 
