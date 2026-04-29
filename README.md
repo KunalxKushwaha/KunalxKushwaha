@@ -121,7 +121,7 @@ Do Check it out Using the link given below:<br>
 
 <h3><b>Loan Defaulter</b> - Predicts whether a person is a loan defaulter or not</h3>
 Do Check it out Using the link given below:<br>
-> https://github.com/KunalxKushwaha/Loan-Defaulter.git
+> Use this: https://github.com/KunalxKushwaha/Loan-Defaulter.git
 
 ---
 
