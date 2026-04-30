@@ -35,9 +35,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onedark&margin-w=15&no-bg=true" />
 </p>
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=radical&margin-w=10&margin-h=10" />
-</p> -->
+
+
 
 
 ## 🧑‍💻 About Me
