@@ -41,7 +41,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **MERN stack projects and Advance Machine Learning Concepts.**.
+- 🔭 I’m currently working on ** Advance Machine Learning and Deep Learning Concepts.**.
 - 🌱 Learning **Cloud Deployment | DSA | Backend Integration**.
 - 💬 Ask me about **React, Python, JavaScript, Java, TypeScript, Machine Learning Models and APIs**.
 - 📫 Reach me at **kushwahakunal733@gmail.com**.
