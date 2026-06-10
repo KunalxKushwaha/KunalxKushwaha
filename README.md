@@ -108,7 +108,7 @@
 
 ---
 
-## 🛰️ Latest Projects..,
+## 🛰️ Latest Projects...
 
 <h3><b>Resumate</b> - An AI Powered Resume Builder</h3>
 Do Check it out Using the link given below:<br>
