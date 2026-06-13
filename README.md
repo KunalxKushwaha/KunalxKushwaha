@@ -129,7 +129,7 @@ Do Check it out Using the link given below:<br>
 
 - AWS & Cloud Functions.☁️
 - DevOps and WebSockets.🧪
-- ML with Python & TensorFlow.🧠
+- Deep Learnings & TensorFlow.🧠
 
 ---
 
