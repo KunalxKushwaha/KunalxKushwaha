@@ -52,7 +52,7 @@
 
 ---
 
-## 🌐 Connect With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+## 🌐 Connect With Me... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/kunal-kushwaha-a25810294" target="_blank">
