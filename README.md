@@ -42,7 +42,7 @@
 ## 🧑‍💻 About Me...
 
 - 🔭 I’m currently working on **Advance Machine Learning and Deep Learning Concepts.**.
-- 🌱 Learning **Cloud Deployment | DSA | Backend Integration**.
+- 🌱 Learning **Generative AI | DSA | Backend Integration**.
 - 💬 Ask me about **React, Python, JavaScript, Java, TypeScript, Machine Learning Models and APIs**.
 - 📫 Reach me at **kushwahakunal733@gmail.com**.
 - ⚡ Fun fact: I love watching Sci-Fi Movies and Building UI Clones and Designs.🛸
