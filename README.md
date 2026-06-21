@@ -30,7 +30,7 @@
 
 ---
 
-## 🏆 GitHub Trophies...
+## 🏆 GitHub Trophies..
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kunalxkushwaha&theme=onedark&margin-w=15&no-bg=true" />
@@ -39,7 +39,7 @@
 
 
 
-## 🧑‍💻 About Me...
+## 🧑‍💻 About Me..
 
 - 🔭 I’m currently working on **Advance Machine Learning and Deep Learning Concepts.**.
 - 🌱 Learning **Generative AI | DSA | Backend Integration**.
