@@ -116,7 +116,7 @@ Do Check it out Using the link given below:<br>
 
 <h3><b>PostPilot</b> - AI-Powered Social Media Management Platform</h3>
 Do Check it out Using the link given below:<br>
-> Use this: https://puter.com/app/resumind-ai-resume-analyzer-001
+> Use this: https://post-pilot-roan-three.vercel.app
 
 <h3><b>Loan Defaulter</b> - Predicts whether a person is a loan defaulter or not</h3>
 Do Check it out Using the link given below:<br>
