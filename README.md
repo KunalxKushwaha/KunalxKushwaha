@@ -111,9 +111,9 @@
 
 ## 🛰️ Latest Projects...
 
-<h3><b>Resumate</b> - An AI Powered Resume Builder</h3>
+<h3><b>Wavelength</b> - An AI-Powered Video Assistant</h3>
 Do Check it out Using the link given below:<br>
-> Use this: https://resume-builder-chi-two-36.vercel.app
+> Use this: https://ai-video-assistant-eight.vercel.app
 
 <h3><b>PostPilot</b> - AI Powered Social Media Management Platform</h3>
 Do Check it out Using the link given below:<br>
