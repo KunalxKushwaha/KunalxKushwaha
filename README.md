@@ -129,8 +129,8 @@ Do Check it out Using the link given below:<br>
 ## ⚡ Technologies I'm Exploring in 2026...
 
 - AWS & Cloud Functions.☁️
-- DevOps and Geneative AI.🧪🤖
-- Deep Learnings & TensorFlow.🧠
+- DevOps and Agentic AI.🧪🤖
+- Deep Learnings with TensorFlow.🧠
 
 ---
 
