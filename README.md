@@ -130,7 +130,7 @@ Do Check it out Using the link given below:<br>
 
 - AWS & Cloud Functions.☁️
 - DevOps and Agentic AI.🧪🤖
-- Deep Learnings with TensorFlow.🧠
+- Deep Learnings with TensorFlow and Pytorch.🧠
 
 ---
 
